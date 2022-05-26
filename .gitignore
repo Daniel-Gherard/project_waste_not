@@ -1,0 +1,28 @@
+# Logs
+/Problem 02/logs
+/Problem 02/*.log
+/Problem 02/npm-debug.log*
+/Problem 02/yarn-debug.log*
+/Problem 02/yarn-error.log*
+/Problem 02/pnpm-debug.log*
+/Problem 02/lerna-debug.log*
+
+/Problem 02/node_modules
+/Problem 02/.DS_Store
+/Problem 02/dist
+/Problem 02/dist-ssr
+/Problem 02/coverage
+/Problem 02/*.local
+
+/Problem 02/cypress/videos/
+/Problem 02/cypress/screenshots/
+
+# Editor directories and files
+/Problem 02/.vscode/*
+/Problem 02/!.vscode/extensions.json
+/Problem 02/.idea
+/Problem 02/*.suo
+/Problem 02/*.ntvs*
+/Problem 02/*.njsproj
+/Problem 02/*.sln
+/Problem 02/*.sw?
